@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Player-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Clementine Free Installer** — Clementine is a free, open-source music player for Windows, macOS, and Linux based on Amarok 1. Works without internet access, no account required. Full offline installation.
+**💻 Clementine Free Installer** — Clementine is a free, cross-platform music player inspired by Amarok 1. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Clementine
 
-Clementine is a free, open-source music player for Windows, macOS, and Linux based on Amarok 1.4. Features a tabbed playlist system, radio stream support, Last.fm and SoundCloud integration, lyrics fetching, and device sync. Clementine's comprehensive feature set and cross-platform support make it a full-featured music management solution for users who want more than simple playback.
+Clementine is a free, cross-platform music player inspired by Amarok 1.4. It supports local libraries, Spotify, Last.fm, and internet radio, with a powerful tag editor, visualizations, remote control from mobile apps, and a rich plugin system.
 
 ---
 
 ## ❌ Problem: Clementine is hard to access
 
-- **Interface Dated** — Based on a 2010s design paradigm; less modern appearance
-- **Streaming Service Support** — Limited integration with modern streaming platforms
-- **Development Status** — Original Clementine development slowed; Strawberry is active fork
-- **Mobile Sync** — iOS sync requires extra configuration compared to iTunes
+- **Aging Codebase** — Development has slowed; successor Strawberry is more actively maintained
+- **Qt4 Legacy** — Built on older Qt framework causing some visual inconsistencies on modern systems
+- **Streaming Limitations** — Spotify integration requires older API credentials increasingly unavailable
+- **Linux-Primary Feel** — macOS and Windows versions feel less polished than the Linux build
 
 ---
 
@@ -121,7 +121,7 @@ Clementine is a free, open-source music player for Windows, macOS, and Linux bas
 
 ---
 
-**Clementine Free Installer** — Clementine is a free, open-source music player for Windows, macOS, and Linux based on Amarok 1. Install without internet connection today!
+**Clementine Free Installer** — Clementine is a free, cross-platform music player inspired by Amarok 1. Install without internet connection today!
 
 <div align="center">
 
